@@ -8,17 +8,40 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "aws-sdk": "^2.1290.0",
+    "canvas": "^2.11.0",
+    "canvas-confetti": "^1.6.0",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "cors": "^2.8.5",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.34",
+    "pdf.js-extract": "^0.2.1",
+    "util": "^0.12.4",
+    "vue": "^2.6.11",
+    "vue-fortune-wheel": "^1.0.3",
+    "vue-pdf": "^4.3.0",
+    "vue-router": "^3.2.0",
+    "vuetify": "^2.6.0",
+    "vuex": "^3.2.0"
   },
   "devDependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^34.2.0",
+    "@ckeditor/ckeditor5-vue2": "^3.0.1",
+    "@fortawesome/fontawesome-free": "^6.2.1",
     "@vue/cli-plugin-babel": "~4.5.15",
     "@vue/cli-plugin-eslint": "~4.5.15",
+    "@vue/cli-plugin-router": "~4.5.15",
     "@vue/cli-service": "~4.5.15",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "material-design-icons-iconfont": "^6.7.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.5.1",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.3"
   },
   "eslintConfig": {
     "root": true,
